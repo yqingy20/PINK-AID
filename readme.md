@@ -3,7 +3,7 @@ Welcome to Pink-Aid, a platform dedicated to promoting women's health and raisin
 
 At Pink-Aid, we are a team of four passionate women studying computer science. We are dedicated to using technology to promote women's health and gender equality. Our platform provides valuable information and resources to help women make informed decisions about their health. Join us in our mission to prioritize women's health needs and promote empowerment for all women.
 
-Author: Anhan Wang, Heidi Gao,YanQin Yu, Xinya Lu
+Author: Anhan Wang, Heidi Gao,YanQing Yu, Xinya Lu
 
 
 Template by 
